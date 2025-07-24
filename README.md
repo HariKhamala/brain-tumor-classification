@@ -63,19 +63,3 @@ Classes:
 - `pituitary_tumor`
 
 ---
-
-## 💡 Model Highlights
-
-| Model            | Accuracy | Remarks                     |
-|------------------|----------|-----------------------------|
-| Custom CNN       | ~85%     | From-scratch architecture   |
-| MobileNetV2 (TL) | ~88%+    | Transfer learning (ImageNet)|
-
----
-
-## 📦 How to Run
-
-### 1️⃣ Clone the Repository
-```bash
-git clone https://github.com/HariKhamala/brain-tumor-classification.git
-cd brain-tumor-classification
